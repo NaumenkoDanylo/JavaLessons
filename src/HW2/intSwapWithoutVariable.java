@@ -1,5 +1,5 @@
 package HW2;
-
+//задача 3
 public class intSwapWithoutVariable {
     public static void main(String[] args) {
         int a = 5;
