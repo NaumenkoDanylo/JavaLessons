@@ -1,6 +1,6 @@
 package HW2;
-
-public class intSwapWithVariable {
+//задача 2
+public class IntSwapWithVariable {
     public static void main(String[] args) {
         int a = 1;
         int b = 2;
